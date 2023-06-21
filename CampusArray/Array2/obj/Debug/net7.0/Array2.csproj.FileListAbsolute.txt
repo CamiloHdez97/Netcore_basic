@@ -1,0 +1,15 @@
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/bin/Debug/net7.0/Array2
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/bin/Debug/net7.0/Array2.deps.json
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/bin/Debug/net7.0/Array2.runtimeconfig.json
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/bin/Debug/net7.0/Array2.dll
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/bin/Debug/net7.0/Array2.pdb
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/Array2.csproj.AssemblyReference.cache
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/Array2.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/Array2.AssemblyInfoInputs.cache
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/Array2.AssemblyInfo.cs
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/Array2.csproj.CoreCompileInputs.cache
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/Array2.dll
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/refint/Array2.dll
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/Array2.pdb
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/Array2.genruntimeconfig.cache
+/home/apolm01-006/netcore/clase1/CampusArray/Array2/obj/Debug/net7.0/ref/Array2.dll

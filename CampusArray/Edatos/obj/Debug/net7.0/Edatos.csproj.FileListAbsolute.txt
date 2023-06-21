@@ -1,0 +1,15 @@
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/bin/Debug/net7.0/Edatos
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/bin/Debug/net7.0/Edatos.deps.json
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/bin/Debug/net7.0/Edatos.runtimeconfig.json
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/bin/Debug/net7.0/Edatos.dll
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/bin/Debug/net7.0/Edatos.pdb
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/Edatos.csproj.AssemblyReference.cache
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/Edatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/Edatos.AssemblyInfoInputs.cache
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/Edatos.AssemblyInfo.cs
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/Edatos.csproj.CoreCompileInputs.cache
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/Edatos.dll
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/refint/Edatos.dll
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/Edatos.pdb
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/Edatos.genruntimeconfig.cache
+/home/apolm01-006/netcore/clase1/CampusArray/Edatos/obj/Debug/net7.0/ref/Edatos.dll
