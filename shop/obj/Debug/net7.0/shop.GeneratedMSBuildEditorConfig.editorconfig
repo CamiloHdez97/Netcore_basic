@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Array2
-build_property.ProjectDir = /home/apolm01-006/netcore/CampusArray/Array2/
+build_property.RootNamespace = shop
+build_property.ProjectDir = /home/apolm01-006/netcore/shop/

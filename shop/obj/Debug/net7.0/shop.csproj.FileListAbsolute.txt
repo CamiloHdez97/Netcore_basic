@@ -1,0 +1,15 @@
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/shop.csproj.AssemblyReference.cache
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/shop.AssemblyInfoInputs.cache
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/shop.AssemblyInfo.cs
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/shop.csproj.CoreCompileInputs.cache
+/home/apolm01-006/netcore/shop/bin/Debug/net7.0/shop
+/home/apolm01-006/netcore/shop/bin/Debug/net7.0/shop.deps.json
+/home/apolm01-006/netcore/shop/bin/Debug/net7.0/shop.runtimeconfig.json
+/home/apolm01-006/netcore/shop/bin/Debug/net7.0/shop.dll
+/home/apolm01-006/netcore/shop/bin/Debug/net7.0/shop.pdb
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/shop.dll
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/refint/shop.dll
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/shop.pdb
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/shop.genruntimeconfig.cache
+/home/apolm01-006/netcore/shop/obj/Debug/net7.0/ref/shop.dll
