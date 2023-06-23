@@ -1,0 +1,15 @@
+/home/apolm01-006/netcore/POO/bin/Debug/net7.0/POO
+/home/apolm01-006/netcore/POO/bin/Debug/net7.0/POO.deps.json
+/home/apolm01-006/netcore/POO/bin/Debug/net7.0/POO.runtimeconfig.json
+/home/apolm01-006/netcore/POO/bin/Debug/net7.0/POO.dll
+/home/apolm01-006/netcore/POO/bin/Debug/net7.0/POO.pdb
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.csproj.AssemblyReference.cache
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.AssemblyInfoInputs.cache
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.AssemblyInfo.cs
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.csproj.CoreCompileInputs.cache
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.dll
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/refint/POO.dll
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.pdb
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.genruntimeconfig.cache
+/home/apolm01-006/netcore/POO/obj/Debug/net7.0/ref/POO.dll
