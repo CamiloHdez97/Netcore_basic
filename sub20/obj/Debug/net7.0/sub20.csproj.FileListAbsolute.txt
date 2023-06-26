@@ -1,0 +1,15 @@
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/sub20.csproj.AssemblyReference.cache
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/sub20.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/sub20.AssemblyInfoInputs.cache
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/sub20.AssemblyInfo.cs
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/sub20.csproj.CoreCompileInputs.cache
+/home/apolm01-006/netcore/sub20/bin/Debug/net7.0/sub20
+/home/apolm01-006/netcore/sub20/bin/Debug/net7.0/sub20.deps.json
+/home/apolm01-006/netcore/sub20/bin/Debug/net7.0/sub20.runtimeconfig.json
+/home/apolm01-006/netcore/sub20/bin/Debug/net7.0/sub20.dll
+/home/apolm01-006/netcore/sub20/bin/Debug/net7.0/sub20.pdb
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/sub20.dll
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/refint/sub20.dll
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/sub20.pdb
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/sub20.genruntimeconfig.cache
+/home/apolm01-006/netcore/sub20/obj/Debug/net7.0/ref/sub20.dll
