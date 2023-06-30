@@ -1,0 +1,15 @@
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\bin\Debug\net7.0\Diccionarios.exe
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\bin\Debug\net7.0\Diccionarios.deps.json
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\bin\Debug\net7.0\Diccionarios.runtimeconfig.json
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\bin\Debug\net7.0\Diccionarios.dll
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\bin\Debug\net7.0\Diccionarios.pdb
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\Diccionarios.csproj.AssemblyReference.cache
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\Diccionarios.AssemblyInfoInputs.cache
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\Diccionarios.AssemblyInfo.cs
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\Diccionarios.dll
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\refint\Diccionarios.dll
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\Diccionarios.pdb
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\Diccionarios.genruntimeconfig.cache
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\Diccionarios\obj\Debug\net7.0\ref\Diccionarios.dll
