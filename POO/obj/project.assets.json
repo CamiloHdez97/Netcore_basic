@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/apolm01-006/.nuget/packages/": {}
+    "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/apolm01-006/netcore/POO/POO.csproj",
+      "projectUniqueName": "C:\\Users\\Camilo Hernandez\\Documents\\Netcore_basic\\POO\\POO.csproj",
       "projectName": "POO",
-      "projectPath": "/home/apolm01-006/netcore/POO/POO.csproj",
-      "packagesPath": "/home/apolm01-006/.nuget/packages/",
-      "outputPath": "/home/apolm01-006/netcore/POO/obj/",
+      "projectPath": "C:\\Users\\Camilo Hernandez\\Documents\\Netcore_basic\\POO\\POO.csproj",
+      "packagesPath": "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Camilo Hernandez\\Documents\\Netcore_basic\\POO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/apolm01-006/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Camilo Hernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.107/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

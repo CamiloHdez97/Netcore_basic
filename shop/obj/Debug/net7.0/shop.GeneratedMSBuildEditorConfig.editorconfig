@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = shop
-build_property.ProjectDir = /home/apolm01-006/netcore/shop/
+build_property.ProjectDir = c:\Users\Camilo Hernandez\Documents\Netcore_basic\shop\

@@ -13,3 +13,18 @@
 /home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.pdb
 /home/apolm01-006/netcore/POO/obj/Debug/net7.0/POO.genruntimeconfig.cache
 /home/apolm01-006/netcore/POO/obj/Debug/net7.0/ref/POO.dll
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\POO.csproj.AssemblyReference.cache
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\POO.AssemblyInfoInputs.cache
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\POO.AssemblyInfo.cs
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\POO.dll
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\refint\POO.dll
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\POO.pdb
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\bin\Debug\net7.0\POO.exe
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\bin\Debug\net7.0\POO.deps.json
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\bin\Debug\net7.0\POO.runtimeconfig.json
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\bin\Debug\net7.0\POO.dll
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\bin\Debug\net7.0\POO.pdb
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\POO.genruntimeconfig.cache
+C:\Users\Camilo Hernandez\Documents\Netcore_basic\POO\obj\Debug\net7.0\ref\POO.dll

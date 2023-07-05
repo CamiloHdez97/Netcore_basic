@@ -6,7 +6,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using listas_cSharp.Clases;
+using Clases.Persona;
 
 
 internal class Program
