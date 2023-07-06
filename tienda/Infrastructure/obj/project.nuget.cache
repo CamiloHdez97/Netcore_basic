@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wSsjuZW5gZNjhIOxEgUKTTTKrHhZl62iCeiRLKuHnGpUJd+0eNVsEQiIlgapNmYfpBeq+fZjGjRk3b5VXQFQfQ==",
+  "dgSpecHash": "1SCtd2albPFicPIwT+whNlafLZqTSUqZ8k7lm3CphzCMFiNf+fFqcaavHHVvFurWvR8nWelJymG445foshmNTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Camilo Hernandez\\Documents\\Netcore_basic\\tienda\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
-    "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
-    "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.2\\microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",
+    "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
+    "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.8\\microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",
+    "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.8\\microsoft.entityframeworkcore.analyzers.7.0.8.nupkg.sha512",
     "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Camilo Hernandez\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

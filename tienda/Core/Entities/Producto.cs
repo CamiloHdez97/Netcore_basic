@@ -1,6 +1,6 @@
 namespace Core.Entities;
 
-public class Productos
+public class Producto
 {
 
     public int Id {get; set;}
